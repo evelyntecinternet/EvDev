@@ -7,7 +7,6 @@ A proposta é ir além de simplesmente apresentar códigos ou definições. Cada
 O projeto foi desenvolvido como uma aplicação web utilizando **HTML, CSS e JavaScript**, com conteúdos organizados em diferentes trilhas de aprendizado.
 
 ---
-
 ## 🎯 Objetivo
 
 O EvDev foi pensado principalmente para quem está começando na área de tecnologia e precisa construir uma base sólida antes de avançar para assuntos mais complexos.
