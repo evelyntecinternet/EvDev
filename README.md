@@ -1,7 +1,3 @@
-Sim. A pesquisa estava sendo explicada em **três lugares diferentes**: na trilha de Programação, em uma seção própria e novamente na versão v14. O ideal é explicar o funcionamento **uma vez** e, na versão, apenas registrar a alteração.
-
-Eu deixaria o README assim nessa parte:
-
 # EvDev — Plataforma de Aprendizado em Tecnologia
 
 O **EvDev** é uma plataforma de aprendizado voltada para **Tecnologia da Informação**, criada para tornar o estudo mais prático, organizado e progressivo.
