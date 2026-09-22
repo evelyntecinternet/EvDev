@@ -227,7 +227,7 @@ O EvDev é um projeto estático e pode ser executado utilizando um servidor loca
 ### Clone o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/evelyntecinternet/EvDev
 ```
 
 ### Entre na pasta
