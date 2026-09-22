@@ -295,52 +295,40 @@ A versão **v14** trouxe melhorias no conteúdo, pesquisa, Laboratório e organi
 Abaixo estão algumas das telas atuais do EvDev.
 
 ## Tela inicial
-
-<img width="1543" height="741" alt="image" src="https://github.com/user-attachments/assets/fa487808-f722-432c-8105-817013902d67" />
+<img width="1543" height="741" alt="Captura de tela 2026-09-22 183002" src="https://github.com/user-attachments/assets/9554c6c6-fea4-41e8-bd78-8205766f2db4" />
 
 ## Tela da trilha de Programação
-
-<img width="1558" height="713" alt="image" src="https://github.com/user-attachments/assets/7001e4d0-b28c-4111-ab01-13557f3b1b28" />
+<img width="1558" height="713" alt="Captura de tela 2026-09-22 183123" src="https://github.com/user-attachments/assets/a2606e2a-519c-452c-bc2f-7b0b79ffb839" />
 
 ## Tela da trilha de Web
-
-<img width="1541" height="678" alt="image" src="https://github.com/user-attachments/assets/c5dbfc7d-9edd-454b-ae74-d5555f8b8ba5" />
+<img width="1541" height="678" alt="Captura de tela 2026-09-22 183227" src="https://github.com/user-attachments/assets/d0408495-d6f8-43f8-8ad9-9950c1366d0c" />
 
 ## Tela da trilha de Servidores
-
-<img width="1260" height="673" alt="image" src="https://github.com/user-attachments/assets/1b869c3a-ab7d-4498-81a6-5c22257cce89" />
+<img width="1260" height="673" alt="Captura de tela 2026-09-22 183311" src="https://github.com/user-attachments/assets/73023eb2-36b5-4cfa-92f8-5fce6c5a27df" />
 
 ## Tela da trilha de Banco de Dados
-
-<img width="1286" height="675" alt="image" src="https://github.com/user-attachments/assets/cdca0630-ac8c-4af6-a1f8-531efc097e13" />
+<img width="1286" height="675" alt="Captura de tela 2026-09-22 183357" src="https://github.com/user-attachments/assets/820176fa-41b8-4a6b-8264-5b1a48e722ba" />
 
 ## Tela da trilha de Redes
-
-<img width="1306" height="674" alt="image" src="https://github.com/user-attachments/assets/b8cea2e8-5ca4-45b2-a3c3-a7f93460de55" />
+<img width="1306" height="674" alt="Captura de tela 2026-09-22 183424" src="https://github.com/user-attachments/assets/9c39d75a-250f-4ea4-8c09-3214cf118a2b" />
 
 ## Tela da trilha de Fundamentos
-
-<img width="1246" height="671" alt="image" src="https://github.com/user-attachments/assets/3c7192a2-7cd2-4a3d-b923-5daea95df4d7" />
+<img width="1246" height="671" alt="Captura de tela 2026-09-22 183454" src="https://github.com/user-attachments/assets/9faecc77-6787-4af1-9b1c-1cf165f82ad3" />
 
 ## Tela da trilha de Sistemas Operacionais
-
-<img width="1280" height="666" alt="image" src="https://github.com/user-attachments/assets/3e2c6a98-75bb-4408-988a-a8517657f79b" />
+<img width="1280" height="666" alt="Captura de tela 2026-09-22 183525" src="https://github.com/user-attachments/assets/8b1965bc-a23e-4e2d-ba46-cf777c3742d8" />
 
 ## Tela da trilha de Mobile
-
-<img width="1243" height="671" alt="image" src="https://github.com/user-attachments/assets/e1c14607-8446-4638-971c-6f7df34d9d92" />
+<img width="1243" height="671" alt="Captura de tela 2026-09-22 183558" src="https://github.com/user-attachments/assets/ceb40967-737d-4f37-979b-e42d35b97d6d" />
 
 ## Tela da trilha de Git
-
-<img width="1255" height="653" alt="image" src="https://github.com/user-attachments/assets/86977761-8a50-4b5f-a3e3-f6b0d69a2b83" />
+<img width="1255" height="653" alt="Captura de tela 2026-09-22 183630" src="https://github.com/user-attachments/assets/779f99d3-0d6f-4f60-b6ec-e20be1d1f8f0" />
 
 ## Tela da trilha de Cloud & DevOps
-
-<img width="1236" height="651" alt="image" src="https://github.com/user-attachments/assets/0e2527d5-1f7e-445a-aeb0-e5451958be2f" />
+<img width="1236" height="651" alt="Captura de tela 2026-09-22 183709" src="https://github.com/user-attachments/assets/50a126a5-2ca8-4ef9-8617-bee89f901d20" />
 
 ## Tela da trilha de Segurança
-
-<img width="1244" height="657" alt="image" src="https://github.com/user-attachments/assets/fc4bd0aa-f1ef-4d13-b50b-7c6b186dc5be" />
+<img width="1244" height="657" alt="Captura de tela 2026-09-22 183739" src="https://github.com/user-attachments/assets/8e75ae44-d0f0-4b52-91fe-732003d0815e" />
 
 ---
 
