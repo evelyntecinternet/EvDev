@@ -1,0 +1,138 @@
+<!--
+  EvDev — Plataforma de aprendizado de Tecnologia da Informação
+  Arquivo: index.html
+
+  Responsabilidade:
+  - estrutura base da aplicação;
+  - cabeçalho e navegação principal;
+  - barra lateral das trilhas;
+  - busca global;
+  - ponto de montagem do conteúdo (#app).
+
+  A lógica da interface fica em app.js e os dados da trilha de
+  programação ficam separados em programming-data.js.
+-->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta
+    name="description"
+    content="EvDev — plataforma interativa para aprender TI com aulas, exemplos e laboratório."
+  >
+  <title>EvDev | Mergulhe em TI</title>
+
+  <!-- Fontes usadas pela identidade visual do projeto. -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&display=swap"
+    rel="stylesheet"
+  >
+
+  <!-- Biblioteca de ícones. -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+  >
+
+  <!-- Estilos principais do EvDev. -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- ======================================================
+       CABEÇALHO
+       ====================================================== -->
+  <header class="topbar">
+    <!-- Botão exibido em telas menores para abrir a sidebar. -->
+    <button class="mobile-menu" id="mobile-menu" aria-label="Abrir menu">
+      <i class="fa-solid fa-bars"></i>
+    </button>
+
+    <!-- Logo e link para a página inicial. -->
+    <a class="logo" href="#home" aria-label="Ir para o início">
+      <span class="logo-mark">&lt;/&gt;</span>
+      <span>Ev<span>Dev</span></span>
+    </a>
+
+    <!-- A navegação é preenchida dinamicamente pelo app.js. -->
+    <nav id="nav" aria-label="Navegação principal"></nav>
+
+    <div class="header-actions">
+      <button class="icon-btn" id="search-btn" aria-label="Buscar em TI">
+        <i class="fa-solid fa-magnifying-glass"></i>
+      </button>
+    </div>
+  </header>
+
+  <!-- ======================================================
+       SIDEBAR / TRILHAS
+       ====================================================== -->
+  <aside class="sidebar" id="sidebar">
+    <button
+      class="sidebar-toggle"
+      id="sidebar-toggle"
+      title="Fechar trilhas"
+      aria-label="Fechar trilhas"
+    >
+      <i class="fa-solid fa-chevron-left"></i>
+    </button>
+
+    <div class="sidebar-label">TRILHAS</div>
+
+    <!-- O conteúdo desta área é montado pelo app.js. -->
+    <div id="side-links"></div>
+
+    <div class="sidebar-footer">
+      <div class="xp-box">
+        <div>
+          <span>Progresso</span>
+          <strong id="xp-text">0%</strong>
+        </div>
+        <div class="progress">
+          <i id="xp-bar"></i>
+        </div>
+      </div>
+      <p>Aprenda. Pratique. Construa.</p>
+    </div>
+  </aside>
+
+  <!-- ======================================================
+       ÁREA PRINCIPAL
+       ====================================================== -->
+  <main id="app"></main>
+
+  <!-- ======================================================
+       BUSCA GLOBAL
+       ====================================================== -->
+  <div class="search-modal hidden" id="search-modal">
+    <div class="search-card">
+      <div class="search-head">
+        <input
+          id="search-input"
+          type="search"
+          placeholder="Buscar em TI..."
+          autocomplete="off"
+          aria-label="Buscar em TI"
+        >
+        <button id="close-search" aria-label="Fechar busca">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+      <div id="search-results"></div>
+    </div>
+  </div>
+
+  <!-- Mensagens rápidas da aplicação. -->
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <!--
+    Ordem importante:
+    1. programming-data.js cria os dados das linguagens;
+    2. app.js usa esses dados para montar a interface.
+  -->
+  <script src="programming-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
